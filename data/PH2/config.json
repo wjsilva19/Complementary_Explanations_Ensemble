@@ -1,0 +1,8 @@
+{
+    "target": "Diagnosis",
+    "images": "data/PH2/imgs",
+    "monotonic": ["Asymmetry", "Pigment", "Dots-Atypical", "Streaks",
+                  "Regression", "BlueVeil", "White", "Blue-Gray", "Black"],
+    "unconstrained": ["Dots-Absent", "Dots-Typical", "Red", "Light-Brown",
+                      "Dark-Brown"]
+}

@@ -1,0 +1,10 @@
+{
+    "target": "Consensus",
+    "images": "data/breast-new/corrected",
+    "monotonic": ["pBAD", "pBRA", "pLBC", "pUNR", "pBCE", "pBCD", "pBOD",
+                  "sX2a", "sX2b", "sEMDa", "sEMDb"],
+    "unconstrained": ["cX2L", "cX2a", "cX2b", "cX2Lab", "cEMDL",
+                     "cEMDa", "cEMDb", "cEMDLab", "sX2L", "sX2Lab", "sEMDL",
+                     "sEMDLab"
+                     ]
+}
