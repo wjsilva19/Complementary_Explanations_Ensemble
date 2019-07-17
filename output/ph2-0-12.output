@@ -1,0 +1,798 @@
+Tree 14
+0 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=1)
+Tree DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=1) 0.9708333333333333
+
+1 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=1)
+
+2 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=2)
+
+3 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=2)
+Tree DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=2) 0.9746875
+
+4 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=3)
+
+5 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=3)
+
+6 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=5)
+
+7 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=5)
+
+8 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=7)
+
+9 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=7)
+
+10 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=10)
+
+11 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=10)
+
+12 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='gini', include_coverage=True, max_depth=None)
+
+13 DecisionTreeExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+            criterion='entropy', include_coverage=True, max_depth=None)
+
+KNN 1
+0 NeighborExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+          include_coverage=True, neighbors=1, weights='uniform')
+KNN NeighborExplanation(config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+          include_coverage=True, neighbors=1, weights='uniform') 0.94375
+
+DNN 20
+0 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+2018-06-04 22:30:32.437047: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce GTX 1050 Ti, pci bus id: 0000:01:00.0, compute capability: 6.1)
+DNN JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5') 0.9836979166666667
+
+1 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+2 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+DNN JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5') 0.9855729166666666
+
+3 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+4 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+5 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+6 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+7 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+8 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+9 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+10 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+11 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+12 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+13 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+14 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+15 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+16 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+17 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+18 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+19 JointExplanations(batch_size=64,
+         config={'target': 'Diagnosis', 'images': 'data/PH2/imgs', 'monotonic': ['Asymmetry', 'Pigment', 'Dots-Atypical', 'Streaks', 'Regression', 'BlueVeil', 'White', 'Blue-Gray', 'Black'], 'unconstrained': ['Dots-Absent', 'Dots-Typical', 'Red', 'Light-Brown', 'Dark-Brown']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/ph2-0-12.h5')
+
+Random: 0.6000
+Fold 0
+Tree
+Accuracy: 1.0000
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 1.0000
+
+KNN
+Accuracy: 1.0000
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 1.0000
+
+2018-06-05 14:37:25.046457: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce GTX 1050 Ti, pci bus id: 0000:01:00.0, compute capability: 6.1)
+DNN
+Accuracy: 1.0000
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 1.0000
+
+probability
+Accuracy: 0.3013
+Completeness: 0.0325
+Compactness: 35076.0000
+
+neighbor-similar
+Accuracy: 0.9305
+Completeness: 0.3836
+Compactness: 24.6000
+
+neighbor-opponent
+Accuracy: 0.7600
+Completeness: 0.6000
+Compactness: 32.6000
+
+decision-rule-boundary
+Accuracy: 0.9885
+Completeness: 0.3992
+Compactness: 19.6000
+
+decision-rule-opponent
+Accuracy: 0.9885
+Completeness: 0.3989
+Compactness: 20.0000
+
+tree-rule
+Accuracy: 0.3000
+Completeness: 0.0511
+Compactness: 13.0000
+
+euclidean-neighbor-similar
+Accuracy: 0.9659
+Completeness: 0.0458
+Compactness: 15.1500
+
+euclidean-neighbor-opponent
+Accuracy: 0.4568
+Completeness: 0.8981
+Compactness: 15.9000
+
+Fold 1
+Tree
+Accuracy: 0.9500
+ROC AUC: 0.9479
+PR AUC: 0.9451
+F1: 0.9583
+
+KNN
+Accuracy: 0.9500
+ROC AUC: 0.9479
+PR AUC: 0.9451
+F1: 0.9583
+
+DNN
+Accuracy: 0.9500
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 0.9615
+
+probability
+Accuracy: 0.3421
+Completeness: 0.0340
+Compactness: 35100.0000
+
+neighbor-similar
+Accuracy: 0.9615
+Completeness: 0.4068
+Compactness: 20.4000
+
+neighbor-opponent
+Accuracy: 0.7358
+Completeness: 0.7100
+Compactness: 36.5000
+
+decision-rule-boundary
+Accuracy: 0.9902
+Completeness: 0.4118
+Compactness: 17.6750
+
+decision-rule-opponent
+Accuracy: 0.9902
+Completeness: 0.4117
+Compactness: 17.8750
+
+tree-rule
+Accuracy: 0.4000
+Completeness: 0.0514
+Compactness: 13.2500
+
+euclidean-neighbor-similar
+Accuracy: 0.9750
+Completeness: 0.0426
+Compactness: 15.4250
+
+euclidean-neighbor-opponent
+Accuracy: 0.4637
+Completeness: 0.9060
+Compactness: 15.6250
+
+Fold 2
+Tree
+Accuracy: 0.9667
+ROC AUC: 0.9653
+PR AUC: 0.9634
+F1: 0.9722
+
+KNN
+Accuracy: 0.9500
+ROC AUC: 0.9444
+PR AUC: 0.9378
+F1: 0.9589
+
+DNN
+Accuracy: 0.9667
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 0.9744
+
+probability
+Accuracy: 0.3375
+Completeness: 0.0336
+Compactness: 35110.6667
+
+neighbor-similar
+Accuracy: 0.9702
+Completeness: 0.3961
+Compactness: 19.8000
+
+neighbor-opponent
+Accuracy: 0.7386
+Completeness: 0.7289
+Compactness: 35.6833
+
+decision-rule-boundary
+Accuracy: 0.9887
+Completeness: 0.3925
+Compactness: 17.0833
+
+decision-rule-opponent
+Accuracy: 0.9887
+Completeness: 0.3924
+Compactness: 17.2167
+
+tree-rule
+Accuracy: 0.3667
+Completeness: 0.0506
+Compactness: 13.1667
+
+euclidean-neighbor-similar
+Accuracy: 0.9792
+Completeness: 0.0403
+Compactness: 15.7833
+
+euclidean-neighbor-opponent
+Accuracy: 0.4612
+Completeness: 0.8969
+Compactness: 15.7833
+
+Fold 3
+Tree
+Accuracy: 0.9750
+ROC AUC: 0.9740
+PR AUC: 0.9726
+F1: 0.9792
+
+KNN
+Accuracy: 0.9625
+ROC AUC: 0.9583
+PR AUC: 0.9533
+F1: 0.9692
+
+DNN
+Accuracy: 0.9750
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 0.9808
+
+probability
+Accuracy: 0.3566
+Completeness: 0.0336
+Compactness: 35116.0000
+
+neighbor-similar
+Accuracy: 0.9762
+Completeness: 0.3929
+Compactness: 19.2000
+
+neighbor-opponent
+Accuracy: 0.7407
+Completeness: 0.7317
+Compactness: 37.0625
+
+decision-rule-boundary
+Accuracy: 0.9881
+Completeness: 0.3974
+Compactness: 17.8750
+
+decision-rule-opponent
+Accuracy: 0.9881
+Completeness: 0.3974
+Compactness: 17.9750
+
+tree-rule
+Accuracy: 0.3875
+Completeness: 0.0507
+Compactness: 13.1250
+
+euclidean-neighbor-similar
+Accuracy: 0.9769
+Completeness: 0.0412
+Compactness: 15.6750
+
+euclidean-neighbor-opponent
+Accuracy: 0.4625
+Completeness: 0.8981
+Compactness: 15.9000
+
+Fold 4
+Tree
+Accuracy: 0.9800
+ROC AUC: 0.9792
+PR AUC: 0.9781
+F1: 0.9833
+
+KNN
+Accuracy: 0.9400
+ROC AUC: 0.9333
+PR AUC: 0.9278
+F1: 0.9513
+
+DNN
+Accuracy: 0.9800
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 0.9846
+
+probability
+Accuracy: 0.3858
+Completeness: 0.0335
+Compactness: 35119.2000
+
+neighbor-similar
+Accuracy: 0.9587
+Completeness: 0.3910
+Compactness: 18.9600
+
+neighbor-opponent
+Accuracy: 0.7446
+Completeness: 0.7218
+Compactness: 37.4100
+
+decision-rule-boundary
+Accuracy: 0.9882
+Completeness: 0.3966
+Compactness: 17.6900
+
+decision-rule-opponent
+Accuracy: 0.9882
+Completeness: 0.3966
+Compactness: 17.7700
+
+tree-rule
+Accuracy: 0.4300
+Completeness: 0.0503
+Compactness: 13.1000
+
+euclidean-neighbor-similar
+Accuracy: 0.9756
+Completeness: 0.0412
+Compactness: 15.5800
+
+euclidean-neighbor-opponent
+Accuracy: 0.4603
+Completeness: 0.8928
+Compactness: 15.8400
+
+Fold 5
+Tree
+Accuracy: 0.9667
+ROC AUC: 0.9670
+PR AUC: 0.9706
+F1: 0.9710
+
+KNN
+Accuracy: 0.9333
+ROC AUC: 0.9306
+PR AUC: 0.9287
+F1: 0.9443
+
+DNN
+Accuracy: 0.9750
+ROC AUC: 0.9957
+PR AUC: 0.9972
+F1: 0.9799
+
+probability
+Accuracy: 0.4456
+Completeness: 0.0333
+Compactness: 35121.3333
+
+neighbor-similar
+Accuracy: 0.9647
+Completeness: 0.3860
+Compactness: 19.2917
+
+neighbor-opponent
+Accuracy: 0.7494
+Completeness: 0.7227
+Compactness: 36.6500
+
+decision-rule-boundary
+Accuracy: 0.9888
+Completeness: 0.3932
+Compactness: 17.5500
+
+decision-rule-opponent
+Accuracy: 0.9886
+Completeness: 0.3927
+Compactness: 17.7167
+
+tree-rule
+Accuracy: 0.4667
+Completeness: 0.0504
+Compactness: 13.2500
+
+euclidean-neighbor-similar
+Accuracy: 0.9741
+Completeness: 0.0415
+Compactness: 15.4417
+
+euclidean-neighbor-opponent
+Accuracy: 0.4571
+Completeness: 0.8933
+Compactness: 15.9083
+
+Fold 6
+Tree
+Accuracy: 0.9643
+ROC AUC: 0.9658
+PR AUC: 0.9700
+F1: 0.9689
+
+KNN
+Accuracy: 0.9286
+ROC AUC: 0.9286
+PR AUC: 0.9294
+F1: 0.9393
+
+DNN
+Accuracy: 0.9714
+ROC AUC: 0.9963
+PR AUC: 0.9976
+F1: 0.9766
+
+probability
+Accuracy: 0.4384
+Completeness: 0.0331
+Compactness: 35122.8571
+
+neighbor-similar
+Accuracy: 0.9678
+Completeness: 0.3816
+Compactness: 20.0500
+
+neighbor-opponent
+Accuracy: 0.7520
+Completeness: 0.7241
+Compactness: 35.6429
+
+decision-rule-boundary
+Accuracy: 0.9890
+Completeness: 0.3880
+Compactness: 17.9929
+
+decision-rule-opponent
+Accuracy: 0.9888
+Completeness: 0.3875
+Compactness: 18.1357
+
+tree-rule
+Accuracy: 0.4714
+Completeness: 0.0512
+Compactness: 13.2857
+
+euclidean-neighbor-similar
+Accuracy: 0.9675
+Completeness: 0.0416
+Compactness: 15.4000
+
+euclidean-neighbor-opponent
+Accuracy: 0.4524
+Completeness: 0.8905
+Compactness: 15.8857
+
+Fold 7
+Tree
+Accuracy: 0.9688
+ROC AUC: 0.9701
+PR AUC: 0.9738
+F1: 0.9728
+
+KNN
+Accuracy: 0.9375
+ROC AUC: 0.9375
+PR AUC: 0.9382
+F1: 0.9469
+
+DNN
+Accuracy: 0.9750
+ROC AUC: 0.9967
+PR AUC: 0.9979
+F1: 0.9795
+
+probability
+Accuracy: 0.4325
+Completeness: 0.0331
+Compactness: 35124.0000
+
+neighbor-similar
+Accuracy: 0.9717
+Completeness: 0.3809
+Compactness: 20.5437
+
+neighbor-opponent
+Accuracy: 0.7510
+Completeness: 0.7286
+Compactness: 34.1625
+
+decision-rule-boundary
+Accuracy: 0.9883
+Completeness: 0.3844
+Compactness: 18.5312
+
+decision-rule-opponent
+Accuracy: 0.9881
+Completeness: 0.3840
+Compactness: 18.6562
+
+tree-rule
+Accuracy: 0.4562
+Completeness: 0.0509
+Compactness: 13.2500
+
+euclidean-neighbor-similar
+Accuracy: 0.9715
+Completeness: 0.0411
+Compactness: 15.5062
+
+euclidean-neighbor-opponent
+Accuracy: 0.4507
+Completeness: 0.8874
+Compactness: 15.9500
+
+Fold 8
+Tree
+Accuracy: 0.9722
+ROC AUC: 0.9734
+PR AUC: 0.9767
+F1: 0.9758
+
+KNN
+Accuracy: 0.9389
+ROC AUC: 0.9375
+PR AUC: 0.9365
+F1: 0.9483
+
+DNN
+Accuracy: 0.9778
+ROC AUC: 0.9971
+PR AUC: 0.9981
+F1: 0.9818
+
+probability
+Accuracy: 0.4510
+Completeness: 0.0332
+Compactness: 35124.8889
+
+neighbor-similar
+Accuracy: 0.9736
+Completeness: 0.3812
+Compactness: 20.4611
+
+neighbor-opponent
+Accuracy: 0.7520
+Completeness: 0.7252
+Compactness: 34.4778
+
+decision-rule-boundary
+Accuracy: 0.9883
+Completeness: 0.3921
+Compactness: 18.4722
+
+decision-rule-opponent
+Accuracy: 0.9881
+Completeness: 0.3917
+Compactness: 18.5833
+
+tree-rule
+Accuracy: 0.4611
+Completeness: 0.0507
+Compactness: 13.2222
+
+euclidean-neighbor-similar
+Accuracy: 0.9698
+Completeness: 0.0415
+Compactness: 15.4111
+
+euclidean-neighbor-opponent
+Accuracy: 0.4520
+Completeness: 0.8866
+Compactness: 16.0000
+
+Fold 9
+Tree
+Accuracy: 0.9750
+ROC AUC: 0.9760
+PR AUC: 0.9790
+F1: 0.9782
+
+KNN
+Accuracy: 0.9450
+ROC AUC: 0.9437
+PR AUC: 0.9429
+F1: 0.9535
+
+DNN
+Accuracy: 0.9800
+ROC AUC: 0.9974
+PR AUC: 0.9983
+F1: 0.9836
+
+probability
+Accuracy: 0.4554
+Completeness: 0.0331
+Compactness: 35125.6000
+
+neighbor-similar
+Accuracy: 0.9742
+Completeness: 0.3807
+Compactness: 20.5150
+
+neighbor-opponent
+Accuracy: 0.7521
+Completeness: 0.7262
+Compactness: 35.0100
+
+decision-rule-boundary
+Accuracy: 0.9883
+Completeness: 0.3919
+Compactness: 18.3850
+
+decision-rule-opponent
+Accuracy: 0.9881
+Completeness: 0.3916
+Compactness: 18.5050
+
+tree-rule
+Accuracy: 0.4550
+Completeness: 0.0506
+Compactness: 13.2000
+
+euclidean-neighbor-similar
+Accuracy: 0.9722
+Completeness: 0.0399
+Compactness: 15.2900
+
+euclidean-neighbor-opponent
+Accuracy: 0.4552
+Completeness: 0.8913
+Compactness: 15.9350

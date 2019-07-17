@@ -1,0 +1,809 @@
+Tree 14
+0 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=1)
+Tree DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=1) 0.68828125
+
+1 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=1)
+Tree DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=1) 0.85
+
+2 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=2)
+
+3 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=2)
+Tree DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=2) 0.92890625
+
+4 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=3)
+
+5 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=3)
+Tree DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=3) 0.9375
+
+6 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=5)
+
+7 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=5)
+
+8 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=7)
+
+9 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=7)
+
+10 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=10)
+
+11 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=10)
+
+12 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='gini', include_coverage=True, max_depth=None)
+
+13 DecisionTreeExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+            criterion='entropy', include_coverage=True, max_depth=None)
+
+KNN 1
+0 NeighborExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+          include_coverage=True, neighbors=1, weights='uniform')
+KNN NeighborExplanation(config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+          include_coverage=True, neighbors=1, weights='uniform') 0.5354166666666667
+
+DNN 20
+0 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+2018-06-04 22:29:26.730803: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce GTX 1050 Ti, pci bus id: 0000:01:00.0, compute capability: 6.1)
+DNN JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5') 0.9005208333333333
+
+1 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+2 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+3 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+4 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+DNN JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5') 0.9020833333333332
+
+5 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+6 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+7 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+8 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+9 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+DNN JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=5, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5') 0.9036458333333334
+
+10 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+11 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=1, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+12 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+13 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+14 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+15 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=2, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+16 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+17 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=1,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+18 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=1, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+19 JointExplanations(batch_size=64,
+         config={'target': 'Consensus', 'images': 'data/breast-new/corrected', 'monotonic': ['pBAD', 'pBRA', 'pLBC', 'pUNR', 'pBCE', 'pBCD', 'pBOD', 'sX2a', 'sX2b', 'sEMDa', 'sEMDb'], 'unconstrained': ['cX2L', 'cX2a', 'cX2b', 'cX2Lab', 'cEMDL', 'cEMDa', 'cEMDb', 'cEMDLab', 'sX2L', 'sX2Lab', 'sEMDL', 'sEMDLab']},
+         dense_activation='tanh', dense_joint_num=2, dense_monotonic_num=2,
+         dense_unconstrained_num=3, dense_width=10, dropout=0.5,
+         epochs=1000, explanation_completeness=0.95, include_coverage=True,
+         l1=1e-05, l2=0, path='output/breast-123-4.h5')
+
+Random: 0.8951
+Fold 0
+Tree
+Accuracy: 1.0000
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 1.0000
+
+KNN
+Accuracy: 0.8000
+ROC AUC: 0.6731
+PR AUC: 0.2333
+F1: 0.4000
+
+/home/kelwinfc/.local/lib/python3.6/site-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+DNN
+Accuracy: 0.8667
+ROC AUC: 1.0000
+PR AUC: 1.0000
+F1: 0.0000
+
+probability
+Accuracy: 0.9266
+Completeness: 0.0625
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8000
+Completeness: 0.0078
+Compactness: 127.4000
+
+neighbor-opponent
+Accuracy: 0.8984
+Completeness: 1.0000
+Compactness: 129.1333
+
+decision-rule-boundary
+Accuracy: 0.9971
+Completeness: 0.0531
+Compactness: 75.4667
+
+decision-rule-opponent
+Accuracy: 0.9971
+Completeness: 0.0531
+Compactness: 75.4667
+
+tree-rule
+Accuracy: 0.8667
+Completeness: 0.0672
+Compactness: 14.4000
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 96.0000
+
+euclidean-neighbor-opponent
+Accuracy: 0.7291
+Completeness: 0.9266
+Compactness: 96.0000
+
+Fold 1
+Tree
+Accuracy: 0.9667
+ROC AUC: 0.9904
+PR AUC: 0.9167
+F1: 0.8333
+
+KNN
+Accuracy: 0.8333
+ROC AUC: 0.5865
+PR AUC: 0.1833
+F1: 0.2000
+
+DNN
+Accuracy: 0.9000
+ROC AUC: 0.9808
+PR AUC: 0.9167
+F1: 0.3333
+
+probability
+Accuracy: 0.9237
+Completeness: 0.0589
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8583
+Completeness: 0.0107
+Compactness: 100.1000
+
+neighbor-opponent
+Accuracy: 0.9141
+Completeness: 0.8615
+Compactness: 169.4333
+
+decision-rule-boundary
+Accuracy: 0.9986
+Completeness: 0.0411
+Compactness: 62.0000
+
+decision-rule-opponent
+Accuracy: 0.9986
+Completeness: 0.0411
+Compactness: 62.0000
+
+tree-rule
+Accuracy: 0.8333
+Completeness: 0.0724
+Compactness: 14.0333
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 96.0000
+
+euclidean-neighbor-opponent
+Accuracy: 0.8077
+Completeness: 0.9125
+Compactness: 96.0000
+
+Fold 2
+Tree
+Accuracy: 0.8889
+ROC AUC: 0.9359
+PR AUC: 0.7194
+F1: 0.6667
+
+KNN
+Accuracy: 0.8444
+ROC AUC: 0.5577
+PR AUC: 0.1667
+F1: 0.1333
+
+DNN
+Accuracy: 0.8889
+ROC AUC: 0.8846
+PR AUC: 0.8111
+F1: 0.3889
+
+probability
+Accuracy: 0.8240
+Completeness: 0.0556
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8861
+Completeness: 0.0149
+Compactness: 100.2444
+
+neighbor-opponent
+Accuracy: 0.8994
+Completeness: 0.8106
+Compactness: 174.5778
+
+decision-rule-boundary
+Accuracy: 0.9990
+Completeness: 0.0358
+Compactness: 60.9778
+
+decision-rule-opponent
+Accuracy: 0.9990
+Completeness: 0.0358
+Compactness: 60.9778
+
+tree-rule
+Accuracy: 0.7556
+Completeness: 0.0655
+Compactness: 15.8667
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9111
+
+euclidean-neighbor-opponent
+Accuracy: 0.8353
+Completeness: 0.9186
+Compactness: 96.0000
+
+Fold 3
+Tree
+Accuracy: 0.9000
+ROC AUC: 0.9471
+PR AUC: 0.7479
+F1: 0.6667
+
+KNN
+Accuracy: 0.8333
+ROC AUC: 0.5337
+PR AUC: 0.1583
+F1: 0.1000
+
+DNN
+Accuracy: 0.8833
+ROC AUC: 0.9038
+PR AUC: 0.8167
+F1: 0.2917
+
+probability
+Accuracy: 0.8121
+Completeness: 0.0573
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8812
+Completeness: 0.0132
+Compactness: 82.9833
+
+neighbor-opponent
+Accuracy: 0.9245
+Completeness: 0.6197
+Compactness: 169.2833
+
+decision-rule-boundary
+Accuracy: 0.9993
+Completeness: 0.0290
+Compactness: 63.3500
+
+decision-rule-opponent
+Accuracy: 0.9993
+Completeness: 0.0290
+Compactness: 63.3500
+
+tree-rule
+Accuracy: 0.7667
+Completeness: 0.0685
+Compactness: 15.3167
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9333
+
+euclidean-neighbor-opponent
+Accuracy: 0.8345
+Completeness: 0.9124
+Compactness: 96.0000
+
+Fold 4
+Tree
+Accuracy: 0.8933
+ROC AUC: 0.9577
+PR AUC: 0.7983
+F1: 0.5333
+
+KNN
+Accuracy: 0.8133
+ROC AUC: 0.5115
+PR AUC: 0.1533
+F1: 0.0800
+
+DNN
+Accuracy: 0.8800
+ROC AUC: 0.8846
+PR AUC: 0.7267
+F1: 0.2333
+
+probability
+Accuracy: 0.8262
+Completeness: 0.0583
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8783
+Completeness: 0.0121
+Compactness: 81.6400
+
+neighbor-opponent
+Accuracy: 0.9193
+Completeness: 0.6957
+Compactness: 153.5067
+
+decision-rule-boundary
+Accuracy: 0.9994
+Completeness: 0.0306
+Compactness: 63.6400
+
+decision-rule-opponent
+Accuracy: 0.9994
+Completeness: 0.0306
+Compactness: 63.6400
+
+tree-rule
+Accuracy: 0.7733
+Completeness: 0.0726
+Compactness: 16.7467
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9467
+
+euclidean-neighbor-opponent
+Accuracy: 0.8239
+Completeness: 0.9147
+Compactness: 96.0000
+
+Fold 5
+Tree
+Accuracy: 0.8992
+ROC AUC: 0.9647
+PR AUC: 0.8319
+F1: 0.5556
+
+KNN
+Accuracy: 0.8444
+ROC AUC: 0.5929
+PR AUC: 0.2944
+F1: 0.2333
+
+DNN
+Accuracy: 0.9000
+ROC AUC: 0.9038
+PR AUC: 0.7722
+F1: 0.3611
+
+probability
+Accuracy: 0.8104
+Completeness: 0.0572
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8793
+Completeness: 0.0143
+Compactness: 80.7753
+
+neighbor-opponent
+Accuracy: 0.9220
+Completeness: 0.6383
+Compactness: 158.0337
+
+decision-rule-boundary
+Accuracy: 0.9989
+Completeness: 0.0346
+Compactness: 61.8202
+
+decision-rule-opponent
+Accuracy: 0.9989
+Completeness: 0.0346
+Compactness: 61.8202
+
+tree-rule
+Accuracy: 0.7416
+Completeness: 0.0720
+Compactness: 16.3034
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9551
+
+euclidean-neighbor-opponent
+Accuracy: 0.8239
+Completeness: 0.9140
+Compactness: 96.0000
+
+Fold 6
+Tree
+Accuracy: 0.9034
+ROC AUC: 0.9588
+PR AUC: 0.7607
+F1: 0.4762
+
+KNN
+Accuracy: 0.8463
+ROC AUC: 0.5742
+PR AUC: 0.2626
+F1: 0.2000
+
+DNN
+Accuracy: 0.9041
+ROC AUC: 0.8956
+PR AUC: 0.7095
+F1: 0.3095
+
+probability
+Accuracy: 0.7908
+Completeness: 0.0573
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8763
+Completeness: 0.0134
+Compactness: 84.1845
+
+neighbor-opponent
+Accuracy: 0.9311
+Completeness: 0.6495
+Compactness: 162.1748
+
+decision-rule-boundary
+Accuracy: 0.9990
+Completeness: 0.0398
+Compactness: 62.6796
+
+decision-rule-opponent
+Accuracy: 0.9990
+Completeness: 0.0398
+Compactness: 62.6796
+
+tree-rule
+Accuracy: 0.7573
+Completeness: 0.0720
+Compactness: 17.2621
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9612
+
+euclidean-neighbor-opponent
+Accuracy: 0.8240
+Completeness: 0.9142
+Compactness: 96.0000
+
+Fold 7
+Tree
+Accuracy: 0.8976
+ROC AUC: 0.9639
+PR AUC: 0.7906
+F1: 0.4792
+
+KNN
+Accuracy: 0.8387
+ROC AUC: 0.5553
+PR AUC: 0.2387
+F1: 0.1750
+
+DNN
+Accuracy: 0.9071
+ROC AUC: 0.9087
+PR AUC: 0.7458
+F1: 0.3542
+
+probability
+Accuracy: 0.7900
+Completeness: 0.0558
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8738
+Completeness: 0.0150
+Compactness: 81.8889
+
+neighbor-opponent
+Accuracy: 0.9221
+Completeness: 0.6708
+Compactness: 159.5470
+
+decision-rule-boundary
+Accuracy: 0.9992
+Completeness: 0.0407
+Compactness: 61.1026
+
+decision-rule-opponent
+Accuracy: 0.9992
+Completeness: 0.0407
+Compactness: 61.1026
+
+tree-rule
+Accuracy: 0.7521
+Completeness: 0.0693
+Compactness: 17.2393
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9316
+
+euclidean-neighbor-opponent
+Accuracy: 0.8176
+Completeness: 0.9164
+Compactness: 96.0000
+
+Fold 8
+Tree
+Accuracy: 0.9090
+ROC AUC: 0.9679
+PR AUC: 0.8139
+F1: 0.5370
+
+KNN
+Accuracy: 0.8481
+ROC AUC: 0.5491
+PR AUC: 0.2207
+F1: 0.1556
+
+DNN
+Accuracy: 0.9175
+ROC AUC: 0.9188
+PR AUC: 0.7741
+F1: 0.4259
+
+probability
+Accuracy: 0.7987
+Completeness: 0.0549
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8828
+Completeness: 0.0152
+Compactness: 79.6000
+
+neighbor-opponent
+Accuracy: 0.9231
+Completeness: 0.6710
+Compactness: 158.8923
+
+decision-rule-boundary
+Accuracy: 0.9992
+Completeness: 0.0396
+Compactness: 59.8385
+
+decision-rule-opponent
+Accuracy: 0.9992
+Completeness: 0.0396
+Compactness: 59.8385
+
+tree-rule
+Accuracy: 0.7692
+Completeness: 0.0697
+Compactness: 16.7692
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9385
+
+euclidean-neighbor-opponent
+Accuracy: 0.8238
+Completeness: 0.9150
+Compactness: 96.0000
+
+Fold 9
+Tree
+Accuracy: 0.8950
+ROC AUC: 0.9420
+PR AUC: 0.7492
+F1: 0.4833
+
+KNN
+Accuracy: 0.8556
+ROC AUC: 0.5442
+PR AUC: 0.2063
+F1: 0.1400
+    
+DNN
+Accuracy: 0.9180
+ROC AUC: 0.9103
+PR AUC: 0.7300
+F1: 0.3833
+
+probability
+Accuracy: 0.8052
+Completeness: 0.0548
+Compactness: 51368.0000
+
+neighbor-similar
+Accuracy: 0.8725
+Completeness: 0.0146
+Compactness: 79.7902
+
+neighbor-opponent
+Accuracy: 0.9282
+Completeness: 0.6786
+Compactness: 157.8112
+
+decision-rule-boundary
+Accuracy: 0.9993
+Completeness: 0.0433
+Compactness: 59.5524
+
+decision-rule-opponent
+Accuracy: 0.9993
+Completeness: 0.0433
+Compactness: 59.5524
+
+tree-rule
+Accuracy: 0.7692
+Completeness: 0.0671
+Compactness: 17.0769
+
+euclidean-neighbor-similar
+Accuracy: 1.0000
+Completeness: 0.0078
+Compactness: 95.9441
+
+euclidean-neighbor-opponent
+Accuracy: 0.8295
+Completeness: 0.9177
+Compactness: 96.0000
